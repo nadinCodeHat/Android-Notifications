@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Notifications</string>
+    <string name="channel_name">notifications</string>
+    <string name="channel_description">notifications</string>
 </resources>
